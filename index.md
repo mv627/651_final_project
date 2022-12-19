@@ -12,7 +12,11 @@ First, I took data from the [US Census](https://data.census.gov/) on gross media
 The second map clips the Housing Related 311 calls during the period of September 1-7, 2022 to the New York neighborhoods map. The dataset itself was filtered for processing and memory-related purposes. THe reason I map out 311 calls though was because I wanted to find out if there was a similar finding with airbnb listings and 311 calls as is found in the Duvisac et al paper. There, the authors want to understand not so much displacement (which Wachsmuth et al is more concerned with) but what happens to those left behind. They do this by looking at the type of housing-related 311 calls and find that substandard housing conditions are in gentrifiying areas and not just low-income. This is borne out my the map below. However, the reasons for these calls may be due to more than just housing conditions and may reflect selection bias and the type of resident willing to make calls in the first place. It would be good to study this further and over a longer time period.  
 ![Housing Related 311 Calls, September 1-7, 2022](http://github.com/mv627/651_final_proj.github.io/blob/main/311_calls.png?raw=true)
 
-For the third interactive map, I used a spatial join to create an interactive map of the average prices per neighborhood. If we compare to the other two maps, we that there are clear correlations in places that bear a higher burden of rent (Upper Manhattan, the Bronx, and Central Brooklyn), the 311 related housing calls and the average prices of Airbnbs in the neighborhood. 
+For the interactive map, I used a spatial join to create an interactive map of the average prices per neighborhood. 
+
+<iframe src="https://github.com/mv627/651_final_proj.github.io/blob/main/avg_price_neighborhood.html></iframe>
+
+If we compare to the other two maps, we that there are clear correlations in places that bear a higher burden of rent (Upper Manhattan, the Bronx, and Central Brooklyn), the 311 related housing calls and the average prices of Airbnbs in the neighborhood. 
 
 http://github.com/mv627/651_final_proj.github.io/blob/main/avg_price_neighborhood.html
 
