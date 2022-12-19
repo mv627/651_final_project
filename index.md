@@ -14,7 +14,7 @@ The second map clips the Housing Related 311 calls during the period of Septembe
 
 For the interactive map, I used a spatial join to create an interactive map of the average prices per neighborhood. 
 
-<iframe src="https://github.com/mv627/651_final_proj.github.io/blob/main/avg_price_neighborhood.html></iframe>
+<iframe src="/avg_price_neighborhood.html></iframe>
 
 If we compare to the other two maps, we that there are clear correlations in places that bear a higher burden of rent (Upper Manhattan, the Bronx, and Central Brooklyn), the 311 related housing calls and the average prices of Airbnbs in the neighborhood. 
 
