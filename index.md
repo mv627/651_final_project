@@ -18,7 +18,6 @@ For the interactive map, I used a spatial join to create an interactive map of t
 
 If we compare to the other two maps, we that there are clear correlations in places that bear a higher burden of rent (Upper Manhattan, the Bronx, and Central Brooklyn), the 311 related housing calls and the average prices of Airbnbs in the neighborhood. 
 
-
 For the next steps, I'd like to do more on understanding 311 calls, with a larger dataset and look at all of these datasets over a defined period in time rather than a simple snapshot. Formatting wise, I would display these as layers. 
 
 Credit due to: https://medium.com/analytics-vidhya/folium-and-choropleth-weird-names-cool-graph-4f9b99b99190
