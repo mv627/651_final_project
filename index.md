@@ -22,7 +22,7 @@ If we compare to the other two maps, we that there are clear correlations in pla
 
 For the next steps, I'd like to do more on understanding 311 calls, with a larger dataset and look at all of these datasets over a defined period in time rather than a simple snapshot. Formatting wise, I would display these as layers. 
 
-Credit due to: https://medium.com/analytics-vidhya/folium-and-choropleth-weird-names-cool-graph-4f9b99b99190
+Credit due to: https://medium.com/analytics-vidhya/folium-and-choropleth-weird-names-cool-graph-4f9b99b99190, https://lucytalksdata.com/
 Data sources:
 http://insideairbnb.com/
 https://data.census.gov/
