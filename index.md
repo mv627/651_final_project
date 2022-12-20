@@ -14,7 +14,7 @@ The second map clips the Housing Related 311 calls during the period of Septembe
 
 For the interactive map, I used a spatial join to create an interactive map of the average prices per neighborhood. 
 
-<iframe src="avg_price_neighborhood.html" width = "954" height = "855"></iframe>
+<iframe src="avg_price_neighborhood.html" width = "854" height = "500"></iframe>
 
 You can explore the map in more detail here: (avg_price_neighborhood.html)
 
